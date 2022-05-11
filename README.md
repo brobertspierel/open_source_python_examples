@@ -428,7 +428,7 @@ def createBuffer(input_file,output_dir,bufferDist=0,char_strip=-18,modifier=''):
 
 Lineplots with inset and custom legend 
 
-![Example plot](https://drive.google.com/file/d/1UktkpsaX0DwEoVR-8krsiMV-NblM4VDU/view?usp=sharing)
+![Example plot](https://github.com/brobertspierel/open_source_python_examples/blob/main/figures/revised_200m_bands_temp_area_elev_plot_amended_lines.jpg?raw=true)
 
 ```
 def plot_side_by_side(df,output_dir): 
